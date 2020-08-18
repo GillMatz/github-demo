@@ -1,3 +1,6 @@
 Test quick Git Start demo
 new something
 
+a=b+5;
+
+
